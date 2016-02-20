@@ -1,7 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Youtube Next Player",
-  "version": "0.1",
+  "name": "Play Next Youtube Song",
+  "version": "1.0",
+  "description": "Play the next youtube suggested song",
+  "homepage_url": "https://github.com/lishaprakash/youtube-next-chrome-ext", 
   "icons": { 
            "16":"icon16.png", 
            "48":"icon48.png", 
